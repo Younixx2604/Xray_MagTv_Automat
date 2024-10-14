@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="299fde5d-bfff-4069-bf50-a34f20c693f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/1_SCRUM-13.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/RunCucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_KAN_71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_SCRUM_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/1_KAN-56,KAN-68,KAN-57.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/1_KAN-71.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,25 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Cucumber Java.Feature: 1_KAN-56,KAN-68,KAN-57.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: 1_KAN-56.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: 1_KAN-68.executor&quot;: &quot;Run&quot;,
-    &quot;Cucumber Java.Feature: 1_KAN-71.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.RunCucumberTest.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Younix/AquaProjects/MagTvWebAutomat&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cucumber Java.Feature: 1_KAN-56,KAN-68,KAN-57.executor": "Run",
+    "Cucumber Java.Feature: 1_KAN-56.executor": "Run",
+    "Cucumber Java.Feature: 1_KAN-68.executor": "Run",
+    "Cucumber Java.Feature: 1_KAN-71.executor": "Run",
+    "Cucumber Java.Feature: 1_SCRUM-13.executor": "Run",
+    "JUnit.RunCucumberTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Younix/AquaProjects/MagTvWebAutomat",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Younix\AquaProjects\Xray_MagTv_Automat\src\test\resources\features" />
@@ -103,14 +108,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: 1_KAN-68" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: 1_KAN-71" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/1_KAN-68.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/1_KAN-71.feature" />
       <option name="GLUE" value="de.sk_younous.xray_magtv_automat.specifications" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Xray_MagTv_Automat" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: 1_KAN-68" />
+      <option name="SUGGESTED_NAME" value="Feature: 1_KAN-71" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -122,14 +127,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: 1_KAN-71" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: 1_SCRUM-13" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/1_KAN-71.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/1_SCRUM-13.feature" />
       <option name="GLUE" value="de.sk_younous.xray_magtv_automat.specifications" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Xray_MagTv_Automat" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: 1_KAN-71" />
+      <option name="SUGGESTED_NAME" value="Feature: 1_SCRUM-13" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -159,10 +164,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RunCucumberTest" />
+        <item itemvalue="Cucumber Java.Feature: 1_SCRUM-13" />
         <item itemvalue="Cucumber Java.Feature: 1_KAN-56,KAN-68,KAN-57" />
         <item itemvalue="Cucumber Java.Feature: 1_KAN-71" />
         <item itemvalue="Cucumber Java.Feature: 1_KAN-56" />
-        <item itemvalue="Cucumber Java.Feature: 1_KAN-68" />
       </list>
     </recent_temporary>
   </component>

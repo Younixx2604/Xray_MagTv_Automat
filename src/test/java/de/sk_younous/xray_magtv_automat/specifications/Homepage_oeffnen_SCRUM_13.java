@@ -12,7 +12,7 @@ import static com.codeborne.selenide.Selenide.closeWebDriver;
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.Assert.assertTrue;
 
-public class Homepage_oeffnen_KAN_71 {
+public class Homepage_oeffnen_SCRUM_13 {
 
     @Given("der Benutzer hat einen Webbrowser geöffnet")
     public void der_benutzer_hat_einen_webbrowser_geöffnet() {

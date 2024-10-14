@@ -16,7 +16,7 @@ import static org.junit.Assert.assertEquals;
 
 public class Hauptmenu_Navigation {
 
-
+/*
     @Given("die Homepage {string} ist geöffnet")
     public void die_magenta_tv_homepage_ist_geöffnet(String string) {
 
@@ -74,5 +74,6 @@ public class Hauptmenu_Navigation {
     }
 
 
+    */
 }
 
