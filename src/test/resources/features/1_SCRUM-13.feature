@@ -1,4 +1,4 @@
-@SCRUM-14
+@SCRUM-14 @SCRUM-22
 Feature: Homepage Öffnen - Test - xray
 
 	@TEST_SCRUM-13  
