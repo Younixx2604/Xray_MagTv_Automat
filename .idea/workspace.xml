@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="299fde5d-bfff-4069-bf50-a34f20c693f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation_36_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_SCRUM_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_SCRUM_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Kids_KAN_56.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Sport_KAN_68.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/RunCucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/1_SCRUM-13.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/1_SCRUM-13.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
