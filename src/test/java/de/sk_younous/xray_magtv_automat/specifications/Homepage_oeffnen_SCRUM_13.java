@@ -7,6 +7,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxOptions;
 
 import static com.codeborne.selenide.Selenide.closeWebDriver;
 import static com.codeborne.selenide.Selenide.open;
@@ -18,14 +19,10 @@ public class Homepage_oeffnen_SCRUM_13 {
     public void der_benutzer_hat_einen_webbrowser_geöffnet() {
 
 
-        ChromeOptions options = new ChromeOptions();    // Optionen hinzufügen, um das Suchmaschinen-Pop-up zu umgehen
-        options.addArguments("--disable-search-engine-choice-screen");
-        options.addArguments("--start-maximized"); //options.addArguments("--headless");
-        //Configuration.browser = "chrome";
-        Configuration.browserCapabilities = options;
-        //Configuration.browserSize = "1480x800";
-        WebDriverRunner.setWebDriver(new ChromeDriver(options));
-
+        FirefoxOptions firefoxOptions = new FirefoxOptions();
+        firefoxOptions.addArguments("--start-maximized");
+        Configuration.browserCapabilities = firefoxOptions;
+        Configuration.browser = "firefox";
         open("about:blank");
 
     }

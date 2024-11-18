@@ -3,30 +3,27 @@ package de.sk_younous.xray_magtv_automat.specifications;
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.WebDriverRunner;
-import io.cucumber.java.Before;
-import io.cucumber.java.BeforeAll;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxOptions;
 
 import static com.codeborne.selenide.Selenide.*;
 import static org.junit.Assert.assertEquals;
 
-public class Hauptmenu_Navigation {
+public class Hauptmenu_Navigation_36_40 {
 
-/*
+
     @Given("die Homepage {string} ist geöffnet")
     public void die_magenta_tv_homepage_ist_geöffnet(String string) {
 
-        ChromeOptions options = new ChromeOptions();
-        options.addArguments("--disable-search-engine-choice-screen");
-        options.addArguments("--start-maximized");
-        //options.addArguments("--headless");
-        //Configuration.browser = "chrome";
-        Configuration.browserCapabilities = options;
-
+        FirefoxOptions firefoxOptions = new FirefoxOptions();
+        firefoxOptions.addArguments("--start-maximized");
+        Configuration.browserCapabilities = firefoxOptions;
+        Configuration.browser = "firefox";
         open(string);
     }
 
@@ -60,7 +57,7 @@ public class Hauptmenu_Navigation {
         Thread.sleep(5000);
         closeWebDriver();
     }
-
+/*
     @When("man Film Navigationselement {string} klickt")
     public void man_auf_klickt_an(String string) {
         $(By.id("MENU-TEXT-4")).click();
@@ -72,8 +69,8 @@ public class Hauptmenu_Navigation {
         Thread.sleep(5000);
         closeWebDriver();
     }
+*/
 
 
-    */
 }
 

@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="299fde5d-bfff-4069-bf50-a34f20c693f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/1_SCRUM-13.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_KAN_71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_SCRUM_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/1_KAN-56,KAN-68,KAN-57.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/1_KAN-71.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Hauptmenu_Navigation_36_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_SCRUM_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Homepage_oeffnen_SCRUM_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Kids_KAN_56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/sk_younous/xray_magtv_automat/specifications/Sport_KAN_68.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,50 +44,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Cucumber Java.Feature: 1_KAN-56,KAN-68,KAN-57.executor": "Run",
-    "Cucumber Java.Feature: 1_KAN-56.executor": "Run",
-    "Cucumber Java.Feature: 1_KAN-68.executor": "Run",
-    "Cucumber Java.Feature: 1_KAN-71.executor": "Run",
-    "Cucumber Java.Feature: 1_SCRUM-13.executor": "Run",
-    "JUnit.RunCucumberTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Younix/AquaProjects/MagTvWebAutomat",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Cucumber Java.Feature: 1_KAN-56,KAN-68,KAN-57.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: 1_KAN-56.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: 1_KAN-68.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: 1_KAN-71.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: 1_SCRUM-13.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: 1_SCRUM-36,SCRUM-40.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RunCucumberTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Younix/AquaProjects/MagTvWebAutomat&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Younix\AquaProjects\Xray_MagTv_Automat\src\test\resources\features" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.RunCucumberTest">
-    <configuration name="Feature: 1_KAN-56" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/1_KAN-56.feature" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Xray_MagTv_Automat" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: 1_KAN-56" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Feature: 1_KAN-56,KAN-68,KAN-57" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/1_KAN-56,KAN-68,KAN-57.feature" />
@@ -146,6 +128,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Feature: 1_SCRUM-36,SCRUM-40" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/1_SCRUM-36,SCRUM-40.feature" />
+      <option name="GLUE" value="de.sk_younous.xray_magtv_automat.specifications" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Xray_MagTv_Automat" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: 1_SCRUM-36,SCRUM-40" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunCucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Xray_MagTv_Automat" />
       <extension name="coverage">
@@ -165,9 +166,9 @@
       <list>
         <item itemvalue="JUnit.RunCucumberTest" />
         <item itemvalue="Cucumber Java.Feature: 1_SCRUM-13" />
+        <item itemvalue="Cucumber Java.Feature: 1_SCRUM-36,SCRUM-40" />
         <item itemvalue="Cucumber Java.Feature: 1_KAN-56,KAN-68,KAN-57" />
         <item itemvalue="Cucumber Java.Feature: 1_KAN-71" />
-        <item itemvalue="Cucumber Java.Feature: 1_KAN-56" />
       </list>
     </recent_temporary>
   </component>
