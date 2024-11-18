@@ -16,3 +16,8 @@ Feature: Navigationsmenu-Xray
 		When man klickt "KIDS" - Navigationselement an
 		Then "https://web.magentatv.de/kinder" wird geöffnet
 		
+	@TEST_SCRUM-43 @TESTSET_SCRUM-37
+	Scenario: Menu_Film_Xray
+		When man Film Navigationselement "Film" klickt
+		Then Film Seite "https://web.magentatv.de/film" wird geöffnet
+		

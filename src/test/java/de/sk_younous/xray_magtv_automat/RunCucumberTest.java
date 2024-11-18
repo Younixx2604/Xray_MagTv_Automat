@@ -5,7 +5,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/resources/features/1_SCRUM-36,SCRUM-40.feature",
+        features = "src/test/resources/features/1_SCRUM-36,SCRUM-40,SCRUM-43.feature",
         glue = {"de.sk_younous.xray_magtv_automat.specifications"},
         plugin = {"pretty",
                 "junit:target/cucumber-reports/Cucumber.xml",

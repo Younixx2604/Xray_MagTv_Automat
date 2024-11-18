@@ -57,7 +57,7 @@ public class Hauptmenu_Navigation_36_40 {
         Thread.sleep(5000);
         closeWebDriver();
     }
-/*
+
     @When("man Film Navigationselement {string} klickt")
     public void man_auf_klickt_an(String string) {
         $(By.id("MENU-TEXT-4")).click();
@@ -69,7 +69,7 @@ public class Hauptmenu_Navigation_36_40 {
         Thread.sleep(5000);
         closeWebDriver();
     }
-*/
+
 
 
 }
