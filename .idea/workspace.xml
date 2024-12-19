@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="299fde5d-bfff-4069-bf50-a34f20c693f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/1_SCRUM-13.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/1_MAG-11.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

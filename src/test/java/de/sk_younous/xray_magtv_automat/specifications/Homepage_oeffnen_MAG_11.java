@@ -5,15 +5,13 @@ import com.codeborne.selenide.WebDriverRunner;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
 import static com.codeborne.selenide.Selenide.closeWebDriver;
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.Assert.assertTrue;
 
-public class Homepage_oeffnen_SCRUM_13 {
+public class Homepage_oeffnen_MAG_11 {
 
     @Given("der Benutzer hat einen Webbrowser geöffnet")
     public void der_benutzer_hat_einen_webbrowser_geöffnet() {
